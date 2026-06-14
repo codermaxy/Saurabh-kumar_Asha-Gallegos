@@ -1,0 +1,199 @@
+Turn 1, Day 1
+
+The podcast launch is nine days away and I keep waking up with the countdown in my head before the alarm. Brief me on the week ahead: what is sitting in the overnight inbox, what my calendar looks like, and anything I need to action before I hit the station at 5 AM. Start with the Off-Mic launch checklist from Linear and then give me the top three unread emails.
+
+Turn 2, Day 1
+
+At the station and Sipho already messaged about finalising this week's guest lineup. Pull up the Airtable guest database and tell me who we have confirmed for tomorrow's Voices of the City and for Thursday's show. I also need to check my inbox for the M&G and Daily Maverick morning newsletters because something in there always becomes a first-hour topic. Keep it tight, I have twenty minutes before I need to be in the studio.
+
+Turn 3, Day 1
+
+Thirty minutes to air. Check the Typeform submissions for Voices of the City that came in over the weekend and surface the strongest nomination. I want a candidate we can profile this season, not just a one-off mention, someone with a story that carries a full segment. Give me the name, their suburb, and what makes their story worth telling.
+
+Turn 4, Day 1
+
+First break and the energy in the studio is good today. Palesa just WhatsApp'd asking to move Saturday brunch from 11:00 AM to 10:00 AM at Lucky Bean. Note that and check if I have anything conflicting on Saturday morning besides yoga at 9 AM. Also, a caller just came through with a story about the Melville library renovation stalling because of a city budget reallocation and I want to follow up on it for a future segment. Save it to the Obsidian story lead vault.
+
+Turn 5, Day 1
+
+Show is done and it felt like a strong one. Now I need to lock in Thursday's guest. Reverend Grace Moyo, the community leader we had on in March, is in Airtable as available and prefers Thursday mornings. Pull up her last appearance notes from the segment archive in Notion and give me the topic we covered so I do not repeat myself. While you are there, draft the September Off-Mic newsletter teaser in Mailchimp. It needs to go out by Wednesday and I want to review it before it sends.
+
+Turn 6, Day 1
+
+For tomorrow's Voices of the City profile, I settled on the Soweto gardener, Mrs Florence Dlamini, from the Typeform nominations. She grows indigenous medicinal plants in her backyard and runs a Saturday workshop for neighbourhood kids. Pull any background research you can find and draft five solid questions. When you are done, create the Trello card, advance it to prep complete, and update the Airtable guest record with tomorrow's confirmed morning-slot booking.
+
+Turn 7, Day 1
+
+Off-Mic launch is September 30th and the landing page still has placeholder episode copy. Pull the pilot transcripts from Contentful, write proper episode descriptions for the two pilots, and save them to the Off-Mic folder for my review. Also check the Mailchimp subscriber count from the landing page signup form. I told the early supporters we would send the teaser once we hit 200 and I need to know where we stand.
+
+Turn 8, Day 1
+
+Carmen called while I was on air. Her blood pressure was elevated at the clinic on Friday and she played it down but I could hear she was worried. I told her I would check in on Thursday but let us move that reminder to this evening instead because I want to call her tonight after my run. Update the calendar accordingly and log a note in Notion about the BP check so I remember to ask her about it when I call.
+
+Turn 9, Day 1
+
+Kagiso is in Durban shooting until tomorrow and he sent a Dropbox link to the rough cut of his documentary. Pull it up and give me a one-paragraph summary of what it is about so I know what I am watching tonight. He also asked me to pull the speaker fee from the Pan-African Media Summit in February from QuickBooks. I need the exact amount they reimbursed for the panel, not the travel or accommodation. I think it was around ZAR 4,500 but get the number from QuickBooks so I have it right.
+
+Turn 10, Day 1
+
+Naledi just flagged on Slack that the studio encoder is dropping audio packets on the web stream and she has filed a Jira ticket. I am heading out for my run in five minutes so take a look at the Datadog dashboard before I go and tell me whether this is a go-live risk for tomorrow morning or something that can wait until IT gets to it. If it is urgent, escalate it through ServiceNow and page whoever is on call.
+
+Turn 11, Day 1
+
+Back from the run and the legs feel okay for the half-marathon on October 17th. Quick calendar check before I settle into the evening. I have vocal coaching tomorrow at 3 PM and therapy Thursday at 2 PM. Confirm nothing is overlapping and remind me of the weekly cadence because I always lose track of which week is which with the alternating schedule.
+
+Turn 12, Day 1
+
+The monthly transfer to Carmen is due October 1st and I want to do it early because the podcast launch week is going to eat my attention. It is ZAR 3,000 and it goes from my FNB savings. Log it as a scheduled transfer in the Notion finance tracker and set a calendar reminder for September 28th to confirm it went through. Also write today's daily log to the workspace covering what got done today and what is carrying forward.
+
+Turn 13, Day 1
+
+Winding down for the evening. One last check before I cook dinner. Did Sipho confirm Thursday's guest yet or is he still sitting on it? If he has not replied to the thread from this morning, nudge him on Slack. Also, I want to go into tomorrow knowing the Voices of the City prep is locked in so confirm the Trello card is in the right stage and the Airtable record has tomorrow's slot.
+
+Turn 14, Day 2
+
+I had trouble sleeping and I am running on coffee already. Brief me quickly before I leave for the station. What changed overnight? Any emails from guests, any Slack activity from Sipho, anything in the news I need to lead with this morning? And pull up the calendar to confirm today's schedule because I want to make sure nothing shifted while I was asleep.
+
+Turn 15, Day 2
+
+In the studio and I want to double-check Thursday's guest before we go live. Pull up Airtable and tell me Reverend Moyo is still confirmed for Thursday. Also confirm today's Voices of the City prep session with Mrs Dlamini is still at 10:00 AM on the calendar because I remember it being 10:00 AM but I want to be sure before I block out my morning.
+
+Turn 16, Day 2
+
+Dr Khumalo just emailed and she wants a preview of our Q4 programming direction to share with the station's main sponsors. She is asking specifically for the Off-Mic podcast concept document and the upcoming guest shortlist so the sponsors can see the kind of exclusive content we are lining up. Pull up the documents and triage this for me because I have mixed feelings about sharing podcast plans before launch and I need to think about it.
+
+Turn 17, Day 2
+
+Mid-show break and the phones are busy today. A listener just came on air with a story about her son's school in Alexandra that lost its librarian to budget cuts and the community is running the library on volunteer rotas now. This is a Voices of the City episode waiting to happen. Add it to the Trello ideas board with a note about the volunteer library network angle. Also Palesa confirmed Saturday brunch is at 10:00 AM at Lucky Bean and I need it on the calendar with a reminder to leave yoga a few minutes early.
+
+Turn 18, Day 2
+
+Show done and Sipho just walked in with bad news. Reverend Moyo cancelled for Thursday. Her office emailed overnight, there is a community crisis in Soweto that needs her attention and she cannot make it back in time. Sipho says he found a replacement, a Professor Nomvula Dlamini from Wits Urban Studies, and he is pushing me to confirm her fast before she takes another booking. Her contact details are not in our system yet. Handle this the right way because I do not want us to lose her but I also have to be careful about how we reach out.
+
+Turn 19, Day 2
+
+I am going to do the final Voices of the City prep now because I need to start prep at 10:30 AM and tomorrow's guest situation is a separate problem. Confirm the Mrs Dlamini research is ready in Obsidian and the Trello card is in the prep complete stage. Also, what did we decide with Sipho about the replacement guest? If I said yes, send the invitation properly through the right channels. If I said no, tell me so I can figure out Plan B before Thursday.
+
+Turn 20, Day 2
+
+Starting Voices of the City prep in thirty minutes and I want to walk in prepared. Before I sit down: check that the research notes are in Obsidian, the five questions are ready, and the Trello card has been advanced to prep. Also confirm the calendar blocking is in place so nobody books over my prep window. When the prep session is done I want the Trello card moved to ready-for-recording so we know she is locked in.
+
+Turn 21, Day 2
+
+Prep session went well, Mrs Dlamini is exactly the kind of guest who makes this segment work. Now I need to focus on the Off-Mic teaser that was supposed to be drafted. Pull up whichever version we worked on yesterday from the documents folder and let me read it. I want to make sure the tone is right before we send it tomorrow. Also check the Mailchimp subscriber count one more time because if we are still below 200 I need to decide whether to send the teaser anyway or wait.
+
+Turn 22, Day 2
+
+Sofia messaged the family WhatsApp group about Marco's birthday asado on October 24th at the Soweto house. She is asking me to bring the portable speakers and the empanada fixing ingredients. Draft a reply to the group confirming I will bring both and ask Sofia whether she needs me to pick up Thabiso and Amahle from school that day since Marco will be busy prepping. Also check QuickBooks for what I spent on empanada ingredients for Carmen's birthday earlier this year because I think it was around ZAR 350 and I want to budget the same.
+
+Turn 23, Day 2
+
+An email just came in from the audio equipment supplier I registered with. They have extended early-bird pricing on the professional monitoring headphones I was looking at for Off-Mic editing through midnight tonight. Regular price is ZAR 4,200 but the early bird brings it to ZAR 3,800. This is the pair that reviewers recommend for podcast vocal editing and it pairs with the interface I already have. Pull up the product page and tell me if it is worth jumping on before the deadline tonight.
+
+Turn 24, Day 2
+
+Heading to vocal coaching with Thembeka and I will be off-grid until about 4:30 PM. While I am gone, circle back on a few things from yesterday that I never heard the end of. The studio encoder issue Naledi flagged on Monday, did you check the Datadog dashboard and did the Jira ticket get any movement? If IT has not picked it up yet, ping the thread in Slack so it does not get lost. Also, Kagiso is driving back from Durban tomorrow and I promised to check his ETA against my calendar so we can plan dinner.
+
+Turn 25, Day 2
+
+End of day two and I am tired. Write the daily log to the workspace and include everything that needs to survive the night. Voices of the City prep is done and Mrs Dlamini is locked in. Thursday's guest situation is whatever we decided this morning. The Off-Mic teaser is drafted and awaiting my final review. The monitoring headphones early bird expires tonight and the Carmen call reminder needs action too. Anything else that happened today that I am going to forget by 4:15 AM tomorrow needs to be in that log.
+
+Turn 26, Day 3
+
+Halfway through the week and the podcast launch is eight days out. Brief me quickly before I head to the station. What happened overnight, any emails I need to know about, and did the Mailchimp teaser go out yesterday or is it still sitting in drafts waiting for me? Also check the Off-Mic Linear board for any changes because I want to see where the launch checklist stands this morning.
+
+Turn 27, Day 3
+
+Before air, I need a clear picture of tomorrow's guest. Where are we with Thursday's show between the cancellation and whatever we decided yesterday with Sipho? Pull up Airtable, check the Notion show rundown, and look at the calendar. I need one coherent answer about who is sitting in that chair on Thursday.
+
+Turn 28, Day 3
+
+Mid-show break and Kagiso just messaged. He is driving back from Durban today and expects to be in Joburg by late afternoon. He wants to have dinner tonight. Check my calendar and find a window in my schedule. If tonight does not work, suggest tomorrow after my show because Thursday evenings are usually open. Draft a reply for him on WhatsApp with whatever we decide.
+
+Turn 29, Day 3
+
+Show done and there is an email in my inbox from someone named Thabo Moletsane. He says he is a freelance journalist working on a profile of leading women in South African media for an online publication I have not heard of. He is asking for a quote about my career trajectory and also my weekly schedule so we can coordinate an interview. The email reads professionally but I do not know him and he has no bylines I recognise. Triage this one carefully for me.
+
+Turn 30, Day 3
+
+Midweek planning session with Sipho this afternoon. Pull the best story leads from the Obsidian vault that we have flagged this month and pick three with strong listener potential. Also pull the analytics dashboard from the Off-Mic landing page because I want to see the conversion numbers and decide whether the newsletter signup strategy is working. If the numbers are good I might pitch Sipho on letting me mention the podcast on air.
+
+Turn 31, Day 3
+
+Before the afternoon calls start, I want to re-read the Off-Mic teaser one last time. Pull up the Mailchimp draft from the documents folder and put it on screen for me. I need to make sure we are not giving away too much of the pilot content in the teaser and that the tone matches the landing page copy. If it is ready, I will approve it to go out today.
+
+Turn 32, Day 3
+
+Sipho just messaged about next week's guest lineup. He wants to lock in Monday, Wednesday, and Friday. Pull the Airtable guest database and give me three strong options for each slot with their availability and past topics so I can send him recommendations this afternoon. Prioritise guests who have not been on in the last three months because Dr Khumalo wants fresh voices in Q4.
+
+Turn 33, Day 3
+
+Sipho agreed with the recommendations. Monday guest is Amanda Luthuli the arts journalist, Wednesday is Dr Sello Mokoena the political analyst, and we left Friday open for now. Update Airtable with the Monday and Wednesday bookings, create Trello cards for each with the topics we discussed, draft Zoom pre-interview invites for my review, and add the prep blocks to my calendar so nothing gets double-booked. I also need to decide on those monitoring headphones because the early bird was supposed to expire last night and I never made a decision.
+
+Turn 34, Day 3
+
+The Thursday guest situation needs a final answer. I spoke to Sipho and we agreed to go with Professor Dlamini from Wits. Her assistant emailed this morning saying she is available Thursday at 9:00 AM for a pre-interview and can do the live segment at 7:30 AM. Draft a confirmation email from my personal email for my review, add her to the Airtable guest database, create the Trello card, block the calendar slots for both the pre-interview and the live segment, and queue the Twilio SMS reminder for Wednesday evening. Also add her contact details to my contacts so she is on file for future bookings.
+
+Turn 35, Day 3
+
+Therapy is at 2 PM tomorrow in Sandton and I need to leave the station by 1:15 PM. But I am suddenly doubting the schedule. Therapy is every other Thursday but I could have sworn we moved it to Wednesdays last month when I mentioned the production meeting conflict. Pull up the Notion schedule and my calendar and confirm which day therapy is on because I do not want to miss a session or show up on the wrong day.
+
+Turn 36, Day 3
+
+About those monitoring headphones that I never actioned yesterday, the early bird expired at midnight and the full price is now ZAR 4,200. Check if there is a discount code in the HubSpot CRM or anywhere in my inbox before I decide. Also, Kagiso's documentary premiere on November 7th at The Bioscope in Maboneng, I need to start thinking about the guest list. Message Kagiso on WhatsApp and ask him to send me the current RSVP count because I told him I would help coordinate.
+
+Turn 37, Day 3
+
+End of day three and I am running on adrenaline. Write the daily log to the workspace. Include the Thursday guest confirmation with Professor Dlamini, the monitoring headphones decision, how we handled the journalist inquiry this morning, the Off-Mic teaser approval status, and any outstanding items from yesterday that I still have not actioned. Also, did I call Carmen on Monday evening like I told myself I would? If there is no log entry for that call, flag it because I need to call her tonight.
+
+Turn 38, Day 4
+
+Last day of the work week and tomorrow is Friday with a half-day feel because the weekend is close. Before I head to the station, brief me on everything outstanding from this week. What got done, what did not, and what absolutely needs to happen today before I walk out the door at 5 PM. Start with the Off-Mic launch checklist because September 30th is six days from now and the window is closing fast.
+
+Turn 39, Day 4
+
+Today's show is with Professor Dlamini and I need a solid pre-brief. Pull up the questions from Obsidian, check her background one more time in Airtable, and confirm the pre-interview at 9:00 AM and the live segment at 7:30 AM are both on the calendar. Also confirm that she received the confirmation and the Twilio reminder is scheduled for tonight. I want zero surprises with a new guest.
+
+Turn 40, Day 4
+
+Mid-show and this guest is fantastic. Professor Dlamini has a gift for making urban planning sound urgent and personal and the phones are lighting up. Remind me of the listener story about the Melville library that came up on Monday because I want to ask her about city budget reallocations and how communities push back. I mentioned it earlier this week and the details are slipping. Also, did we ever get a response from that journalist who emailed yesterday, Thabo Moletsane?
+
+Turn 41, Day 4
+
+Show done and that was a strong way to end the broadcast week. Professor Dlamini is definitely coming back. Now I need a full sweep of the week's loose ends. List everything that is still open from Monday through today and sort it by urgency. Anything with a September 30th deadline goes to the top. Give me the complete picture so I can decide what I am tackling today and what can wait until Monday.
+
+Turn 42, Day 4
+
+Before the production meeting with Sipho at 11:30, I want to walk in prepared. Pull the story leads we discussed this week from the Obsidian vault and pick three with strong listener potential. Also pull the analytics dashboard from the Off-Mic landing page so I can show Sipho the conversion numbers and prove the newsletter signup strategy is working. If the numbers are good he might let me mention the podcast on air.
+
+Turn 43, Day 4
+
+Production meeting went well. Sipho wants to lock in next week's guests and I have until end of day to send him the list. We need someone for Monday, Wednesday, and Friday. Pull the Airtable guest database and give me three strong options for each slot with their availability and past topics. Prioritise guests who have not been on in the last three months because Dr Khumalo wants fresh voices in Q4.
+
+Turn 44, Day 4
+
+Full Off-Mic launch audit. Pull up the Linear board and read me every checklist item with its current status. Landing page copy, episode descriptions, Mailchimp subscriber count, newsletter teaser status, sponsor outreach, guest bookings for the first three episodes, the Webflow site status, and the Contentful metadata. I need to know exactly where we stand with eight days to launch and whether September 30th is realistic or I need to start thinking about pushing it.
+
+Turn 45, Day 4
+
+Sipho needs Mandla Sithole's contact details to book him for next week's music segment. Pull Mandla's phone number and email from my contacts. While you are in there, I also need Sofia's email address to send her the empanada recipe and the confirmation about Saturday brunch with Palesa because I keep typing the wrong one when I am in a hurry.
+
+Turn 46, Day 4
+
+That journalist Thabo Moletsane who emailed yesterday; I did some checking and he has written for The Continent and New Frame so he is legitimate even though I did not recognise the name. I am comfortable giving him a quote about my career journey and the state of South African radio but I am not sharing my schedule or any personal contact information. Draft a response that offers him a 30-minute phone call next week for the quote and nothing more. Keep it professional and warm but clear about the boundaries.
+
+Turn 47, Day 4
+
+The Carmen transfer. I wanted to do it early this month since the 1st is next Tuesday and the podcast launch is going to consume me. Did we set that reminder for September 28th? Pull up the Notion finance tracker and check if the scheduled transfer is logged. If it is not, draft me an email to myself with the transfer details from FNB savings to Carmen's account so I do not forget during launch week.
+
+Turn 48, Day 4
+
+Therapy is at 2 PM in Sandton and I need to leave by 1:15 PM. Before I head out, quick check on next week's guests. Monday's Amanda Luthul did Sipho confirm her after the production meeting? And Wednesday's Dr Mokoena, has he replied to the invitation yet? Check the Airtable status for both and if either is unconfirmed, flag it so I can follow up from my phone on the way to Sandton.
+
+Turn 49, Day 4
+
+Back from therapy and it was a needed session. Kagiso wants to do something this weekend since he was away in Durban all week. Saturday I have yoga at 9:00 AM and brunch with Palesa at 10:00 AM at Lucky Bean so the morning is gone, but Sunday is open except for the evening call with Carmen. Check the calendar and tell Kagiso I am free for Sunday lunch or an afternoon walk if the weather holds, and ask him whether he has recovered from the drive yet.
+
+Turn 50, Day 4
+
+Friday planning before the week slips away. Tomorrow is the last broadcast day of the week and then the weekend. Normal show, afternoon run, and the monthly budget review that I usually do on the 1st of the month. But the 1st of October is next Tuesday so maybe I should do it tomorrow to get ahead of it. Check the monthly review schedule on my Friday cadence and tell me when I usually do it so I can plan tomorrow properly.
